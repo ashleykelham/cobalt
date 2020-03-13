@@ -9,6 +9,7 @@ _vendor-*/
 *.exe
 *.lock
 *.toml
+*.toml2
 
 # Terraform
 .terraform/
